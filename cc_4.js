@@ -10,7 +10,7 @@ let products = [
 
 ]
 
-//category discounts 
+//dynamic discounts based on category
 for (let product of products) {
 let discount = 0;
 
