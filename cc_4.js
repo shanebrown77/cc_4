@@ -1,5 +1,5 @@
 // coding challenge 4
-console.log(`\nproducts before discounts are applied`)
+console.log(`\n---products before discounts are applied/step2---`)
 
 
 let products = [
@@ -58,13 +58,7 @@ let customers = [
 {id: "002", customerType: "senior", cart: "desk lamp"},
 {id: "003", customerType: "student", cart: "monitor"},
 
-];
-
-
-
-
-
-
+]
 
 
 
